@@ -1,0 +1,27 @@
+Curso utilizando framework Bootstrap
+Instrutor: Rafael Galleani - Lider técnico da Global Hitss
+
+sites úteis:
+https://www.loremipzum.com/pt/
+https://htmlcolorcodes.com/
+https://getbootstrap.com/
+https://www.pexels.com/pt-br/
+
+
+Bootstrap
+--> Se trata de um framework para desenvolvimento de sites responsivos
+--> Possui uma vasta biblioteca de componentes que facilita e agiliza o desenvolvimento de páginas web
+--> É um dos frameworks mais conhecidos e usados para desenvolvimento front-end
+
+Bootstrap trabalha com a sequencia:
+--> container
+--> row
+--> colunas (col-lg-4) -->  a soma deve ser 12 colunas
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-4">
+			<img class="ronded-circle" scr="...
+
+--> container-fluid pega a página inteira, somente o container mantém as margens
+--> text-center: centraliza o texto
